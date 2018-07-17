@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Darts</string>
+    <string name="player_a">Player A</string>
+    <string name="player_b">Player B</string>
+    <string name="player_a_busted">Player A Busted</string>
+    <string name="player_b_busted">Player B Busted</string>
+    <string name="player_a_turn">Player A\'s Turn</string>
+    <string name="player_b_turn">Player B\'s Turn</string>
+    <string name="player_a_won">Player A Won</string>
+    <string name="player_b_won">Player B Won</string>
+    <string name="points_scored_on_turn">Points Scored On Turn</string>
+    <string name="subtract">Finish Turn</string>
+    <string name="reset_game">Reset Game</string>
+</resources>

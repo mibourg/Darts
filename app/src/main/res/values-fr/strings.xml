@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Fléchettes</string>
+    <string name="player_a">Joueuse A</string>
+    <string name="player_a_busted">Joueuse A a échoué son tour.</string>
+    <string name="player_a_turn">C\'est le tour à Joueuse A.</string>
+    <string name="player_a_won">Joueuse A gagne la partie!</string>
+    <string name="player_b">Joueur B</string>
+    <string name="player_b_busted">Joueur B a échoué son tour.</string>
+    <string name="player_b_turn">C\'est le tour à Joueur B.</string>
+    <string name="player_b_won">Joueur B gagne la partie!</string>
+    <string name="points_scored_on_turn">Résultat de la volée</string>
+    <string name="reset_game">Remettre à zéro</string>
+    <string name="subtract">Finir son tour</string>
+</resources>
